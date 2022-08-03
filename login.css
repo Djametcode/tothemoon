@@ -15,11 +15,6 @@ body {
     position: relative;
 }
 
-#logincover:hover {
-    box-shadow: 4px 5px 10px 100px;
-
-}
-
 .logintext {
     background-color: rgba(255, 255, 255, 0.485);
     border-radius: 20px;
